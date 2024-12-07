@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a9b1b5b3-1584-4e82-81e8-cc3363260cea)+-----------------------+-----------------------+-----------------------+
++-----------------------+-----------------------+-----------------------+
 | ![](vertopal_6        |                       |                       |
 | acb15dbb22849a1bec600 |                       |                       |
 | 33cbd04738/media/imag |                       |                       |
@@ -93,16 +93,53 @@ INSTRUCTOR: \<name of instructor\>
 Screenshots of Activity:
 Data Loss:
 ![image](https://github.com/user-attachments/assets/cdc22b7c-83ec-4317-8bd6-4d9e68bc31a1)
+
+
 Data Loss Score:
 ![image](https://github.com/user-attachments/assets/0d97bc1e-e8c6-4884-ac67-085f63f1c9df)
+
 Evaluating End USer Agreement:
 ![image](https://github.com/user-attachments/assets/bbc0fe5e-2b22-4fe1-ab88-3eb9475e05c5)
+
+
 Evaluating of System Administrators:
 ![image](https://github.com/user-attachments/assets/6b35afc4-d6ec-4759-9a6c-80b676de6031)
-FirstGrading Exam:
-![image](https://github.com/user-attachments/assets/ea4b3c1f-ac2a-4684-9fba-8c7d9134dcdd)
+
+
 Group Aactivity:
 ![image](https://github.com/user-attachments/assets/7b3cea55-4952-4ec9-8c59-d5dd4fc0d07d)
+
+
+Organizational Policies:
+![image](https://github.com/user-attachments/assets/e2a35679-76d2-4fb2-9c6d-25aaa1f89443)
+
+
+Seatwork 8/10:
+![image](https://github.com/user-attachments/assets/4cd26765-be59-474e-970f-419f5a1f0a36)
+
+
+Seatwork 8/20
+![image](https://github.com/user-attachments/assets/0fd4eb09-c723-4592-aba8-6d247bd2e93a)
+
+
+Webserver Monitoring:
+![image](https://github.com/user-attachments/assets/18c2f07c-dda9-4026-ad5d-6dd63bbacb8f)
+
+
+FirstGrading Exam:
+![image](https://github.com/user-attachments/assets/ea4b3c1f-ac2a-4684-9fba-8c7d9134dcdd)
+
+
+Lab Exam Prelim:
+![image](https://github.com/user-attachments/assets/6eb224ac-f8c6-4eb3-82b6-ab8052f0bf3c)
+
+
+Midterm Exam:
+![image](https://github.com/user-attachments/assets/434fc6cb-28ca-4363-9e19-aee4deb88e45)
+
+
+
+
 
 
 **Course Reflection**
