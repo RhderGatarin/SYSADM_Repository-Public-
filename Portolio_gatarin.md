@@ -1,4 +1,4 @@
-+-----------------------+-----------------------+-----------------------+
+![image](https://github.com/user-attachments/assets/a9b1b5b3-1584-4e82-81e8-cc3363260cea)+-----------------------+-----------------------+-----------------------+
 | ![](vertopal_6        |                       |                       |
 | acb15dbb22849a1bec600 |                       |                       |
 | 33cbd04738/media/imag |                       |                       |
@@ -89,6 +89,20 @@ INSTRUCTOR: \<name of instructor\>
 +-----------------------+-----------------------+-----------------------+
 | > Midterm Exam        |    October  24        |                       |
 +-----------------------+-----------------------+-----------------------+
+
+Screenshots of Activity:
+Data Loss:
+![image](https://github.com/user-attachments/assets/cdc22b7c-83ec-4317-8bd6-4d9e68bc31a1)
+Data Loss Score:
+![image](https://github.com/user-attachments/assets/0d97bc1e-e8c6-4884-ac67-085f63f1c9df)
+Evaluating End USer Agreement:
+![image](https://github.com/user-attachments/assets/bbc0fe5e-2b22-4fe1-ab88-3eb9475e05c5)
+Evaluating of System Administrators:
+![image](https://github.com/user-attachments/assets/6b35afc4-d6ec-4759-9a6c-80b676de6031)
+FirstGrading Exam:
+![image](https://github.com/user-attachments/assets/ea4b3c1f-ac2a-4684-9fba-8c7d9134dcdd)
+Group Aactivity:
+![image](https://github.com/user-attachments/assets/7b3cea55-4952-4ec9-8c59-d5dd4fc0d07d)
 
 
 **Course Reflection**
