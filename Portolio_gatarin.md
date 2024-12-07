@@ -87,56 +87,9 @@ INSTRUCTOR: \<name of instructor\>
 | vity/Exercise/Library |                       |                       |
 | > Research/Etc\>      |                       |                       |
 +-----------------------+-----------------------+-----------------------+
-| > Midterm Exam        |                       |                       |
+| > Midterm Exam        |    October  24        |                       |
 +-----------------------+-----------------------+-----------------------+
 
-Page **2** of **8**
-
-> **\<insert your scanned activities here include title\>**
-
-**Quiz 2:**Operational Policies
-
-![](vertopal_6acb15dbb22849a1bec60033cbd04738/media/image2.png){width="2.6152777777777776in"
-height="3.8805544619422574in"}
-
-Other activities: Managing Services in Linux
-
-> ![](vertopal_6acb15dbb22849a1bec60033cbd04738/media/image3.png){width="5.28888779527559in"
-> height="2.973611111111111in"}
-
-Page **3** of **8**
-
-> ![](vertopal_6acb15dbb22849a1bec60033cbd04738/media/image4.png){width="4.3805555555555555in"
-> height="2.3569444444444443in"}
->
-> ![](vertopal_6acb15dbb22849a1bec60033cbd04738/media/image5.png){width="4.4625in"
-> height="2.219443350831146in"}
-
-Other activities:Managing Services in Windows
-
-> ![](vertopal_6acb15dbb22849a1bec60033cbd04738/media/image6.png){width="5.722222222222222in"
-> height="1.9527766841644794in"}
-
-Page **4** of **8**
-
-> ![](vertopal_6acb15dbb22849a1bec60033cbd04738/media/image7.png){width="4.879166666666666in"
-> height="2.3916666666666666in"}
->
-> ![](vertopal_6acb15dbb22849a1bec60033cbd04738/media/image8.png){width="4.855555555555555in"
-> height="3.125in"}
->
-> ![](vertopal_6acb15dbb22849a1bec60033cbd04738/media/image9.png){width="4.5569444444444445in"
-> height="1.4125in"}
-
-Page **5** of **8**
-
-Midterm\
-Quiz 1:
-
-![](vertopal_6acb15dbb22849a1bec60033cbd04738/media/image10.png){width="2.6708333333333334in"
-height="4.030555555555556in"}
-
-Page **6** of **8**
 
 **Course Reflection**
 
