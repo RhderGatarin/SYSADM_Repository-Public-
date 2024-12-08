@@ -1,102 +1,42 @@
-+-----------------------+-----------------------+-----------------------+
-| ![](vertopal_6        |                       |                       |
-| acb15dbb22849a1bec600 |                       |                       |
-| 33cbd04738/media/imag |                       |                       |
-| e1.png){width="2.4in" |                       |                       |
-| height="0             |                       |                       |
-| .5888877952755905in"} |                       |                       |
-|                       |                       |                       |
-| SCHOOL OF INFORMATION |                       |                       |
-| TECHNOLOGY            |                       |                       |
-+=======================+=======================+=======================+
-| > NAME: Gatarin       |                       |                       |
-| > Rhoeder             |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > SECTION:IDC1        | > DATE                |                       |
-|                       | >                     |                       |
-|                       |  SUBMITTED:10/29/2024 |                       |
-+-----------------------+-----------------------+-----------------------+
 
-**SYSADM1 PORTFOLIO**
+<h1 align="center">📚 SYSADM1 Portfolio</h1>
+<h1 align="center">Gatarin Rhoeder</h1>
+<h1 align="center">IDC1</h1>
 
-**Table of Contents**
 
-+-----------------------+-----------------------+-----------------------+
-| > **Name of           | > **Date of           | > **Page No.**        |
-| > Activities**        | > Activity**          |                       |
-+=======================+=======================+=======================+
-| > **First Grading**   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Quizzes             |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Quiz 1              | > August 20           |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Quiz 2\             | > August 27           |                       |
-| > Operational         |                       |                       |
-| > Policies            |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Quiz 3              | > September 10        | 3                     |
-+-----------------------+-----------------------+-----------------------+
-| > Other Activities    |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Managing Services   | > August 28           | 4                     |
-| > in Windows          |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Managing Services   | > September 11        | 3                     |
-| > in Linux            |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Evolution of        | > September 22        |                       |
-| > Systems             |                       |                       |
-| > Administration      |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > First Grading Exam  | > September 17        |                       |
-| > Lab\                | > September 18        |                       |
-| > First Grading Exam  |                       |                       |
-| > Lecture             |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > **Midterms**        |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Quizzes             |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Quiz 1              | > October 1           | 6                     |
-+-----------------------+-----------------------+-----------------------+
-| > Quiz 2              |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Quiz 3              |                       |                       |
-+-----------------------+-----------------------+-----------------------+
+# Academic Schedule
 
-> \<Subject Description\>
+## Table of Contents
+1. [Prelims](#prelims)
+2. [Midterm Exam](#midterm)
+3. [Final Exams](#finals)
 
-INSTRUCTOR: \<name of instructor\>
+---
 
-+-----------------------+-----------------------+-----------------------+
-| > Other Activities    |                       |                       |
-+=======================+=======================+=======================+
-| > \<Name of           |                       |                       |
-| > Acti                |                       |                       |
-| vity/Exercise/Library |                       |                       |
-| > Research/Etc\>      |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > \<Name of           |                       |                       |
-| > Acti                |                       |                       |
-| vity/Exercise/Library |                       |                       |
-| > Research/Etc\>      |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > \<Name of           |                       |                       |
-| > Acti                |                       |                       |
-| vity/Exercise/Library |                       |                       |
-| > Research/Etc\>      |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Midterm Exam        |    October  24        |                       |
-+-----------------------+-----------------------+-----------------------+
+
+
+## Midterm Exam  
+- Date: May 1, 2024
+- Activity Title: Review of First Half of Course
+- Duration: 3 hours
+
+## Final Exams
+- Date: July 15, 2024
+- Activity Title: Comprehensive Assessment
+- Duration: 4 hours
 
 Screenshots of Activity:
-Data Loss:
-![image](https://github.com/user-attachments/assets/cdc22b7c-83ec-4317-8bd6-4d9e68bc31a1)
 
+Data Loss:
+
+
+<kbd><img src="https://github.com/user-attachments/assets/9269c267-eeb0-46ff-b761-5dc6ea384f61" alt="2" width="300"></kbd>
 
 Data Loss Score:
-![image](https://github.com/user-attachments/assets/0d97bc1e-e8c6-4884-ac67-085f63f1c9df)
+
+
+<kbd><img src="https://github.com/user-attachments/assets/0d97bc1e-e8c6-4884-ac67-085f63f1c9df" alt="2" width="300"></kbd>
+
 
 Evaluating End USer Agreement:
 ![image](https://github.com/user-attachments/assets/bbc0fe5e-2b22-4fe1-ab88-3eb9475e05c5)
@@ -139,6 +79,9 @@ Midterm Exam:
 
 
 
+## Prelims
+- Date: March 15, 2024
+- Activity Title: Introduction to Course Material
 
 
 
