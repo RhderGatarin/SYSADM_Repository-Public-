@@ -1,15 +1,15 @@
-
-<h1 align="center">📚 SYSADM1 Portfolio</h1>
-<h1 align="center">Gatarin Rhoeder</h1>
-<h1 align="center">IDC1</h1>
-
+<img align = "right" src="https://media.tenor.com/XJmdtBg2AbsAAAAM/happy-dance.gif" alt="2" width="180">
+<p align="left">📚 SYSADM1 Portfolio</p>
+<p align="left">Gatarin Rhoeder</p>
+<p align="left">IDC1</p>
 
 ## Table of Contents
 1. [Prelims](#prelims)
-2. [Midterm Exam](#midterms)
-3. [Final Exams](#finals)
+2. [Midterm](#midterms)
+3. [Final](#finals)
 4. [Course Reflection](#reflection)
 ---
+
 
 ## Prelims 
 
@@ -97,7 +97,7 @@ Activity Title: Review of First Half of Course
 
 
 <kbd><img src="https://github.com/user-attachments/assets/80ce542c-a8d8-409a-a588-52a71c8b3e65" alt="2" width="350"></kbd>
-<kbd><img src="https://github.com/user-attachments/assets/7485bd8a-2d52-478e-8d8e-1dd17e2e3d73" alt="2" width="400"></kbd>
+<kbd><img src="https://github.com/user-attachments/assets/7485bd8a-2d52-478e-8d8e-1dd17e2e3d73" alt="2" width="500"></kbd>
 
 - Date: November 26
 
@@ -109,130 +109,95 @@ Activity Title: A Simulated Dataset for Capacity Planning Excercise
 
 
 ## Reflection
+````
+> What were your initial expectations for the course? Did the course meet, exceed, or fall short of these expectations?
 
-> What were your initial expectations for the course? Did the course
-> meet, exceed, or fall short of these expectations?
+I expected this System Administration course to provide a solid understanding of managing and
+maintaining networked systems, along with hands on experience in handling real world scenarios.
+I was hoping to learn about server management, troubleshooting, security practices,
+and automation techniques. The course has met my expectations by . For example,
+Managing Services in Windows as it gave me a hands- on understanding of how to control
+essential services, troubleshoot issues, and optimize performance.
+````
 
-+-----------------------------------------------------------------------+
-| > I expected this System Administration course to provide a solid     |
-| > understanding of managing and maintaining networked systems, along  |
-| > with hands on experience in handling real world scenarios. I was    |
-| > hoping to learn about server management, troubleshooting, security  |
-| > practices, and automation techniques.                               |
-| >                                                                     |
-| > The course has met my expectations by . For example, Managing       |
-| > Services in Windows as it gave me a hands-on understanding of how   |
-| > to control essential services, troubleshoot issues, and optimize    |
-| > performance.                                                        |
-+=======================================================================+
-+-----------------------------------------------------------------------+
+````
+> What were the main topics or concepts covered in the course? How did these topics contribute to your
+understanding of the subject matter?
 
-> What were the main topics or concepts covered in the course? How did
-> these topics contribute to your understanding of the subject matter?
+The course covered several essential topics, including user and permission management,
+network configuration, managing services in both Windows and Linux environments,
+system monitoring, and security protocols. Also Allowed me to learn how to start,
+stop, and configure services efficiently, ensuring that critical
+applications run smoothly.
 
-+-----------------------------------------------------------------------+
-| > The course covered several essential topics, including user and     |
-| > permission management, network configuration, managing services in  |
-| > both Windows and Linux environments, system monitoring, and         |
-| > security protocols. Also Allowed me to learn how to start, stop,    |
-| > and configure services efficiently, ensuring that critical          |
-| > applications run smoothly.                                          |
-+=======================================================================+
-+-----------------------------------------------------------------------+
+````
 
-> Reflecting on your learning process, what were the most effective
-> strategies or techniques that helped you grasp and retain the course
-> material?
+````
+> Reflecting on your learning process, what were the most effective strategies or techniques that helped you grasp
+and retain the course material?
 
-+-----------------------------------------------------------------------+
-| > Throughout the course, I found that a few strategies were           |
-| > particularly effective in helping me grasp and retain the material  |
-| > through setting up labs and practicing with real configurations in  |
-| > Windows and Linux was invaluable. By actually managing services,    |
-| > permissions, and network setups.                                    |
-| >                                                                     |
-| > Regularly testing myself on the topics, such as command syntax or   |
-| > troubleshooting steps, helped reinforce my memory and identify      |
-| > areas I needed to review.                                           |
-+=======================================================================+
-+-----------------------------------------------------------------------+
+Throughout the course, I found that a few strategies were particularly effective
+in helping me grasp and retain the material through setting up labs and practicing
+with real configurations in Windows and Linux was invaluable. By actually managing
+services, permissions, and network setups. Regularly testing myself on the topics,
+such as command syntax or troubleshooting steps, helped reinforce my
+memory and identify areas I needed to review.
 
-> Were there any particular assignments, projects, or activities that
-> significantly enhanced your learning experience? Why were they
-> effective?
+````
 
-+-----------------------------------------------------------------------+
-| > Yes, several activities significantly enhanced my learning          |
-| > experience.                                                         |
-| >                                                                     |
-| > Activities like managing print services and creating web servers,   |
-| > were particularly effective because they allowed me to apply        |
-| > theoretical knowledge in real-world scenarios, building my          |
-| > confidence in managing these and solving problems independently.    |
-+=======================================================================+
-+-----------------------------------------------------------------------+
+````
+> Were there any particular assignments, projects, or activities that significantly enhanced your learning experience?
+Why were they effective?
 
-> Did you encounter any challenges or difficulties during the course?
-> How did you overcome these obstacles, and what did you learn from
-> them?
+Yes, several activities significantly enhanced my learning experience. Activities like managing
+print services and creating web servers, were particularly effective because they
+allowed me to apply theoretical knowledge in real-world scenarios, building my confidence in managing these
+and solving problems independently.
 
-+-----------------------------------------------------------------------+
-| > Yes, I faced a few challenges during the course, especially with    |
-| > configuring network services like DNS and DHCP was tricky, as even  |
-| > a small error could cause connectivity issues. To overcome this, by |
-| > carefully following each step and documenting any issues I          |
-| > encountered. This practice helped me build patience and a logical   |
-| > approach to troubleshooting.                                        |
-+=======================================================================+
-+-----------------------------------------------------------------------+
+````
 
-> Did the course encourage critical thinking and analysis? How did it
-> promote higher-order thinking skills, such as problem-solving or
-> decision-making?
+````
+> Did you encounter any challenges or difficulties during the course? How did you overcome these obstacles, and
+what did you learn from them?
 
-+-----------------------------------------------------------------------+
-| > By continuously challenging us to address real-world problems       |
-| > rather than just following instructions, the course enabled         |
-| > critical thinking and analysis. For example, I had to examine the   |
-| > issue, analyze the possible causes, and choose the appropriate      |
-| > troubleshooting strategy for multiple tasks that required           |
-| > diagnosing and fixing system problems without a step by step        |
-| > process. My ability to solve problems and make decisions has        |
-| > improved as a result of this procedure.                             |
-+=======================================================================+
-+-----------------------------------------------------------------------+
+Yes, I faced a few challenges during the course, especially with configuring network services like DNS and
+DHCP was tricky, as even a small error could cause connectivity issues. To overcome this, by carefully
+following each step and documenting any issues I encountered. This practice helped me build patience and a
+logical approach to troubleshooting.
 
-> Reflecting on your personal growth, what new knowledge, skills, or
-> perspectives did you gain from this course?
+````
 
-+-----------------------------------------------------------------------+
-| > I learned the importance of persistence, attention to detail, and   |
-| > utilizing available resources. With these obstacles helped me       |
-| > develop a more resilient mindset and a structured approach to       |
-| > problem-solving, skills I know will be essential in real-world      |
-| > system administration.                                              |
-+=======================================================================+
-+-----------------------------------------------------------------------+
+````
+> Did the course encourage critical thinking and analysis? How did it promote higher-order thinking skills, such as
+problem-solving or decision-making?
 
+By continuously challenging us to address real-world problems rather than just following
+instructions, the course enabled critical thinking and analysis. For example, I had to examine
+the issue, analyze the possible causes, and choose the appropriate troubleshooting strategy for
+multiple tasks that required diagnosing and fixing system problems without a step by step process.
+My ability to solve problems and make decisions has improved as a result of this procedure.
 
-> How do you plan to apply what you have learned in this course to your
-> future studies, career, or personal life?
+````
 
-+-----------------------------------------------------------------------+
-| > I might aim to pursue roles in system administration or IT support  |
-| > where I can directly apply the technical skills I\'ve learned, such |
-| > as server management, networking, and scripting. I also plan to     |
-| > seek out internships or positions that allow me to gain real-world  |
-| > experience and further develop my capabilities. The insights I've   |
-| > gained about maintenance and security will guide my approach to     |
-| > ensuring system reliability and protecting organizational data.     |
-| >                                                                     |
-| > I plan to use my skills to manage my own home network more          |
-| > effectively. This includes implementing security measures,          |
-| > optimizing network performance, and automating tasks using scripts. |
-| > This practical application will not only reinforce my learning but  |
-| > also enhance my personal technology management.                     |
-+=======================================================================+
-+-----------------------------------------------------------------------+
+````
+> Reflecting on your personal growth, what new knowledge, skills, or perspectives did you gain from this course?
 
+I learned the importance of persistence, attention to detail, and utilizing available resources. With these
+obstacles helped me develop a more resilient mindset and a structured approach to problem-solving, skills I
+know will be essential in real-world system administration. 
+````
+
+````
+> How do you plan to apply what you have learned in this course to your future studies, career, or personal life?
+
+I might aim to pursue roles in system administration or IT support where I can directly apply the technical skills
+I've learned, such as server management, networking, and scripting. I also plan to seek out internships or
+positions that allow me to gain real-world experience and further develop my capabilities. The insights I’ve
+gained about maintenance and security will guide my approach to ensuring system reliability and protecting
+organizational data.
+I plan to use my skills to manage my own home network more effectively. This includes implementing security
+measures, optimizing network performance, and automating tasks using scripts. This practical application will
+not only reinforce my learning but also enhance my personal technology management.
+
+````
 
