@@ -4,88 +4,111 @@
 <h1 align="center">IDC1</h1>
 
 
-# Academic Schedule
-
 ## Table of Contents
 1. [Prelims](#prelims)
-2. [Midterm Exam](#midterm)
+2. [Midterm Exam](#midterms)
 3. [Final Exams](#finals)
-
+4. [Course Reflection](#reflection)
 ---
 
+## Prelims 
 
 
-## Midterm Exam  
-- Date: May 1, 2024
-- Activity Title: Review of First Half of Course
-- Duration: 3 hours
+- Date: August 21
 
-## Final Exams
-- Date: July 15, 2024
-- Activity Title: Comprehensive Assessment
-- Duration: 4 hours
+Activity Title: Evolution of Systems Administration
 
-Screenshots of Activity:
+  
+<kbd><img src="https://github.com/user-attachments/assets/46afadb7-71d5-4a4f-9fcb-b739d584de9d" alt="2" width="350"></kbd>
 
-Data Loss:
+- Date: August 27
 
+Activity Title: Organizational Policies
 
-<kbd><img src="https://github.com/user-attachments/assets/9269c267-eeb0-46ff-b761-5dc6ea384f61" alt="2" width="300"></kbd>
+  
+<kbd><img src="https://github.com/user-attachments/assets/5314bd41-06ec-4e9a-8c77-142ac2cd26da" alt="2" width="350"></kbd>
 
-Data Loss Score:
-
-
-<kbd><img src="https://github.com/user-attachments/assets/0d97bc1e-e8c6-4884-ac67-085f63f1c9df" alt="2" width="300"></kbd>
+- Date: September 10 
+  
+Activity Title: Seatwork
 
 
-Evaluating End USer Agreement:
-![image](https://github.com/user-attachments/assets/bbc0fe5e-2b22-4fe1-ab88-3eb9475e05c5)
+<kbd><img src="https://github.com/user-attachments/assets/791eed6a-3662-420d-9864-f1afe0afbea2" alt="2" width="350"></kbd>
+
+- Date: September 20
+
+Activity Title: Seatwork
 
 
-Evaluating of System Administrators:
-![image](https://github.com/user-attachments/assets/6b35afc4-d6ec-4759-9a6c-80b676de6031)
+<kbd><img src="https://github.com/user-attachments/assets/9f667c63-bcd7-4d18-9e4e-9fad4839c0fe" alt="2" width="350"></kbd>
+
+- Date: September 17
+
+Activity Title: Prelims Exam(LEC)
 
 
-Group Aactivity:
-![image](https://github.com/user-attachments/assets/7b3cea55-4952-4ec9-8c59-d5dd4fc0d07d)
+<kbd><img src="https://github.com/user-attachments/assets/0a9725bb-91ff-4f3f-a1ed-fb8f3e782282" alt="2" width="350"></kbd>
+
+- Date: September 17
+
+Activity Title: Prelims Exam(LAB)
 
 
-Organizational Policies:
-![image](https://github.com/user-attachments/assets/e2a35679-76d2-4fb2-9c6d-25aaa1f89443)
-
-
-Seatwork 8/10:
-![image](https://github.com/user-attachments/assets/4cd26765-be59-474e-970f-419f5a1f0a36)
-
-
-Seatwork 8/20
-![image](https://github.com/user-attachments/assets/0fd4eb09-c723-4592-aba8-6d247bd2e93a)
-
-
-Webserver Monitoring:
-![image](https://github.com/user-attachments/assets/18c2f07c-dda9-4026-ad5d-6dd63bbacb8f)
-
-
-FirstGrading Exam:
-![image](https://github.com/user-attachments/assets/ea4b3c1f-ac2a-4684-9fba-8c7d9134dcdd)
-
-
-Lab Exam Prelim:
-![image](https://github.com/user-attachments/assets/6eb224ac-f8c6-4eb3-82b6-ab8052f0bf3c)
-
-
-Midterm Exam:
-![image](https://github.com/user-attachments/assets/434fc6cb-28ca-4363-9e19-aee4deb88e45)
+<kbd><img src="https://github.com/user-attachments/assets/29c9d77e-bf4a-4767-b935-260c272df34c" alt="2" width="350"></kbd>
 
 
 
-## Prelims
-- Date: March 15, 2024
-- Activity Title: Introduction to Course Material
+
+## Midterms 
+- Date: October 1
+
+Activity Title: Evaluating End-User License Agreement
+
+
+<kbd><img src="https://github.com/user-attachments/assets/81852be8-9a47-48e4-b792-8d2493158bd5" alt="2" width="350"></kbd>
+
+- Date: ____
+
+Activity Title: Group Activity
+
+
+<kbd><img src="https://github.com/user-attachments/assets/4587f639-4fc6-4aea-bfc2-5d232510e215" alt="2" width="350"></kbd>
+
+- Date: October 24
+
+Activity Title: Midterm Exam
+
+
+<kbd><img src="https://github.com/user-attachments/assets/7d4fcaa3-2dd7-463e-8e41-eb647e71c76d" alt="2" width="350"></kbd>
+
+
+## Finals
+
+- Date: November 5
+
+Activity Title: Acceptable Use Policy
+
+
+<kbd><img src="https://github.com/user-attachments/assets/493f8c14-db1a-408f-8727-dd8988ee53e9" alt="2" width="350"></kbd>
+
+- Date: November 19
+
+Activity Title: Review of First Half of Course
+
+
+<kbd><img src="https://github.com/user-attachments/assets/80ce542c-a8d8-409a-a588-52a71c8b3e65" alt="2" width="350"></kbd>
+<kbd><img src="https://github.com/user-attachments/assets/7485bd8a-2d52-478e-8d8e-1dd17e2e3d73" alt="2" width="400"></kbd>
+
+- Date: November 26
+
+Activity Title: A Simulated Dataset for Capacity Planning Excercise
+
+
+<kbd><img src="https://github.com/user-attachments/assets/2d951a51-19dc-4b88-9f51-5dc43ae258a1" alt="2" width="350"></kbd>
 
 
 
-**Course Reflection**
+## Reflection
 
 > What were your initial expectations for the course? Did the course
 > meet, exceed, or fall short of these expectations?
@@ -191,7 +214,6 @@ Midterm Exam:
 +=======================================================================+
 +-----------------------------------------------------------------------+
 
-Page **7** of **8**
 
 > How do you plan to apply what you have learned in this course to your
 > future studies, career, or personal life?
@@ -213,4 +235,4 @@ Page **7** of **8**
 +=======================================================================+
 +-----------------------------------------------------------------------+
 
-Page **8** of **8**
+
